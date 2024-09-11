@@ -18,7 +18,7 @@ function App() {
       </header>
       <LoginPage />
       <footer>
-        <p>&copy; 2023 ReachInbox. All rights reserved.</p>
+        <p>&copy; 2024 ReachInbox. All rights reserved.</p>
       </footer>
     </div>
   );
